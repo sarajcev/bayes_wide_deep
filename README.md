@@ -4,6 +4,8 @@ Bayesian wide and deep machine learning model, which incorporates joint and ensa
 
 <img src="diagram.png" alt="ML Model for multiclass classification" width="400"> 
 
+The Jupyter Notebook of the full model implementation can be seen on nbviewer [here](https://nbviewer.jupyter.org/github/sarajcev/bayes_wide_deep/blob/master/bayes-wide-deep-multiclass.ipynb).
+
 The model is implemented using a combination of the following popular **Python** libraries:
 * [Keras:](https://keras.io/) The Python Deep Learning library
 * [PyMC3:](http://docs.pymc.io/) Bayesian statistical modeling and Probabilistic Machine Learning
