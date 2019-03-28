@@ -1,5 +1,7 @@
 ## Bayesian wide and deep model for multiclass classification
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+
 Bayesian wide and deep machine learning model, which incorporates joint and ensamble learning, for the multiclass classification.
 
 <img src="diagram.png" alt="ML Model for multiclass classification" width="400"> 
